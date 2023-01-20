@@ -9,6 +9,7 @@ h1 {
     font-style: italic;
     color: rgb(4, 4, 111);
     font-size: 2em;
+    text-shadow: 0 2px 2px #003399;
 }
 
 h2 {
